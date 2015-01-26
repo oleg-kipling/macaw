@@ -1,0 +1,94 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.item-nemu {
+  float: left;
+  height: 80px;
+  margin-top: 152px;
+}
+
+.item-nemu .text {
+  display: block;
+  font-family: FontAwesome;
+}
+
+.manu {
+  float: left;
+  width: 99.903125%;
+  height: 232px;
+}
+
+.menu {
+  float: left;
+  width: 83.2526041666%;
+  height: 232px;
+}
+
+.text {
+  float: left;
+}
+
+.text-7 p {
+  margin-bottom: 1em;
+}
+
+._text {
+  clear: both;
+  width: 32.4%;
+  min-height: 214px;
+  margin: 59px 0 0 23.59896%;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.item-nemu-1 {
+  width: 226px;
+  margin-left: 28.29545%;
+}
+
+.item-nemu-2 {
+  width: 226px;
+  margin-left: 1.87864%;
+}
+
+.item-nemu-3 {
+  width: 225px;
+  margin-left: 1.85829%;
+}
+
+.text-2,
+.text-4 {
+  width: 143px;
+  min-height: 52px;
+  margin: 11px 0 0 8.89104%;
+  font-size: 1.688em;
+  font-weight: 400;
+  line-height: 1.68;
+  color: rgb(0, 0, 0);
+}
+
+.text-1,
+.text-3,
+.text-5 {
+  width: 27.3127753303%;
+  min-height: 26px;
+  font-size: 3.625em;
+  font-weight: normal;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.text-6 {
+  width: 143px;
+  min-height: 52px;
+  margin: 11px 0 0 8.88889%;
+  font-size: 1.688em;
+  font-weight: 400;
+  line-height: 1.68;
+  color: rgb(0, 0, 0);
+}
