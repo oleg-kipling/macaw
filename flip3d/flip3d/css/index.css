@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+}
+
+.back,
+.front {
+  float: left;
+  width: 250px;
+  height: 250px;
+  background-color: rgb(222, 222, 222);
+}
+
+.flip3d {
+  float: left;
+  width: 42.9166666666%;
+  height: 250px;
+  margin: 59px 0 0 22%;
+}

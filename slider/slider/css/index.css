@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+}
+
+.image {
+  display: block;
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: -1px;
+  overflow: hidden;
+}
+
+.screens {
+  position: relative;
+  float: left;
+  width: 304.0404040404%;
+  height: 140px;
+  margin-top: -1px;
+  -webkit-transition: all 2s;
+  -moz-transition: all 2s;
+  -o-transition: all 2s;
+  -ms-transition: all 2s;
+  transition: all 2s;
+}
+
+.text {
+  display: block;
+  position: relative;
+  float: left;
+  min-height: 41px;
+  font: normal 3.75em/1.38 FontAwesome;
+  color: rgb(0, 0, 0);
+}
+
+.viewport {
+  position: relative;
+  float: left;
+  width: 16.5%;
+  height: 140px;
+  margin: -114px 0 0 5.78125%;
+  overflow: hidden;
+}
+
+.text-1 {
+  z-index: 5;
+  width: 5.0833333333%;
+  margin: 198px 0 0 11.21875%;
+}
+
+.text-2 {
+  clear: both;
+  z-index: 6;
+  width: 5.9166666666%;
+  margin-left: 10.88021%;
+}
+
+.text-3 {
+  clear: both;
+  z-index: 7;
+  width: 5%;
+  margin-left: 11.21875%;
+}
